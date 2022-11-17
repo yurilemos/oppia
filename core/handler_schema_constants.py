@@ -74,7 +74,6 @@ HANDLER_CLASS_NAMES_WHICH_STILL_NEED_SCHEMAS = [
     'UpdateQuestionSuggestionHandler',
     'UpdateTranslationSuggestionHandler',
     'ValidateExplorationsHandler',
-    'ValueGeneratorHandler',
     'VoiceArtistManagementHandler',
     'OppiaMLVMHandler',
     'CsrfTokenHandler',
