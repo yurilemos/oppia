@@ -74,6 +74,7 @@ def read_from_node(node: astroid.scoped_nodes.Module) -> List[str]:
 
 
 class HangingIndentChecker(checkers.BaseChecker):
+
     """Custom pylint checker which checks for break after parenthesis in case
     of hanging indentation.
     """
