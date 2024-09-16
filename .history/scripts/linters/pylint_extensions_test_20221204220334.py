@@ -31,6 +31,7 @@ from . import pylint_extensions
 import astroid  # isort:skip
 from pylint import interfaces  # isort:skip
 from pylint import testutils  # isort:skip
+from pylint import lint  # isort:skip
 from pylint import utils as pylint_utils  # isort:skip
 
 
